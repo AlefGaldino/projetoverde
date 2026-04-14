@@ -149,3 +149,10 @@ c) Melhore a eficiência econômica
 d) Crie um novo mercado
 → Postos parceiros aumentam vendas
 → Gera empregos de operadores de entrega de combustível
+
+
+
+
+- Público-alvo: pessoas que possuem carro, caminhão ou moto.
+- Por quê?
+Porque são essas pessoas que precisam de combustível no dia a dia e, quando ele acaba, podem utilizar um aplicativo para chamar uma van de abastecimento, facilitando a vida delas.
