@@ -1,11 +1,79 @@
 # projetoverde
 
 📌 Análise Completa do Problema — Aplicativo de Delivery de Combustível
-✅ 1. O que está acontecendo? (Descrição geral do problema)
+✅ 1. O que está acontecendo?
 Consumidores que precisam de combustível em situações de emergência, comodidade ou impossibilidade de deslocamento não têm uma solução eficiente sem sair de casa. Eles dependem de postos físicos ou serviços de guincho quando ficam sem combustível.
 Um aplicativo de delivery de combustível surge para levar o combustível até o usuário, diretamente no veículo, eliminando a necessidade de deslocamento.
 
-📍 2. Onde o problema ocorre?
+=============================================================================================================================
+🟢 Hipótese 1
+As pessoas não têm tempo para ir até postos de combustível.
+
+✅ Solução:
+Criar um app de delivery onde o usuário pede gasolina, etanol ou energia elétrica e recebe no local.
+
+🟢 Hipótese 2
+Usuários ficam sem combustível no meio do trajeto.
+✅ Solução:
+Oferecer abastecimento emergencial, rápido, que leva combustível ou carga elétrica até o usuário para ele continuar o caminho.
+
+🟢 Hipótese 3
+Falta de postos em regiões periféricas ou afastadas.
+✅ Solução:
+Criar uma rede de veículos de delivery que atendem áreas com pouca infraestrutura, levando combustível diretamente até o usuário.
+
+🟢 Hipótese 4
+Risco de segurança ao parar em postos à noite.
+✅ Solução:
+Permitir abastecimento em casa ou local seguro, reduzindo exposição a assaltos e perigos.
+
+🟢 Hipótese 5
+Crescimento de carros elétricos sem infraestrutura suficiente.
+✅ Solução:
+Criar delivery de energia com:
+baterias portáteis
+estações móveis de recarga
+
+🟢 Hipótese 6
+Motoristas esquecem de abastecer.
+✅ Solução:
+Iremos adicionar no app mais à frente;
+alerta de combustível baixo iremos colocar uma
+opção de agendar abastecimento automático, para o cliente não esquecer futuramente 
+
+🟢Hipótese 7
+Tempo perdido em filas de postos.
+
+ As soluções envolvem o uso de tecnologia, como aplicativos de delivery, para levar combustível ou energia diretamente ao usuário, tornando o processo mais rápido, seguro e eficiente
+ 
+=============================================================================================================================
+👥 9. Público‑alvo
+- Público-alvo: pessoas que possuem carro, caminhão ou moto.
+- Por quê?
+Porque são essas pessoas que precisam de combustível no dia a dia e, quando ele acaba, podem utilizar um aplicativo para chamar uma van de abastecimento, facilitando a vida delas.
+
+Público-alvo primário
+Motoristas que precisam de mobilidade imediata:
+
+Motoristas de aplicativo (Uber, 99).
+Pessoas que usam carro diariamente para trabalhar.
+Entregadores de moto.
+Motoristas que ficam sem combustível inesperadamente.
+
+Público-alvo secundário
+
+Empresas com frotas pequenas e médias.
+Condomínios residenciais (serviço recorrente).
+Estabelecimentos que necessitam de abastecimento para veículos internos.
+
+Público institucional
+
+Postos parceiros.
+Empresas de logística.
+Seguradoras (assistência 24h terceirizada).
+Prefeituras (mobilidade urbana).
+
+=============================================================================================================================
 O problema é mais evidente em áreas urbanas e suburbanas onde há:
 
 Trânsito intenso.
@@ -109,30 +177,6 @@ Prejuízo financeiro.
 Atrasos (trabalho, compromissos).
 Possíveis multas em rodovias.
 Danos ao veículo se tentar rodar com combustível muito baixo.
-
-
-👥 9. Público‑alvo
-Público-alvo primário
-Motoristas que precisam de mobilidade imediata:
-
-Motoristas de aplicativo (Uber, 99).
-Pessoas que usam carro diariamente para trabalhar.
-Entregadores de moto.
-Motoristas que ficam sem combustível inesperadamente.
-
-Público-alvo secundário
-
-Empresas com frotas pequenas e médias.
-Condomínios residenciais (serviço recorrente).
-Estabelecimentos que necessitam de abastecimento para veículos internos.
-
-Público institucional
-
-Postos parceiros.
-Empresas de logística.
-Seguradoras (assistência 24h terceirizada).
-Prefeituras (mobilidade urbana).
-
 
 💡 10. Hipótese de impacto
 Se o aplicativo for implementado corretamente, espera-se que:
