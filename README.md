@@ -1,202 +1,142 @@
-# projetoverde
+🎯 O que é o projeto
+Um aplicativo que conecta usuários (motoristas de carros, motos, caminhões ou empresas com frotas) a vans especializadas que levam combustível ou energia elétrica diretamente até o veículo.
 
-📌 Análise Completa do Problema — Aplicativo de Delivery de Combustível
-✅ 1. O que está acontecendo?
-Consumidores que precisam de combustível em situações de emergência, comodidade ou impossibilidade de deslocamento não têm uma solução eficiente sem sair de casa. Eles dependem de postos físicos ou serviços de guincho quando ficam sem combustível.
-Um aplicativo de delivery de combustível surge para levar o combustível até o usuário, diretamente no veículo, eliminando a necessidade de deslocamento.
+Funciona tanto em situações emergenciais (pane seca, falta de postos próximos, risco de segurança) quanto em abastecimentos programados (frotas, condomínios, empresas).
 
-=============================================================================================================================
-🟢 Hipótese 1
-As pessoas não têm tempo para ir até postos de combustível.
+O serviço busca ser um complemento aos postos tradicionais, oferecendo comodidade, redução de tempo e maior segurança.
 
-✅ Solução:
-Criar um app de delivery onde o usuário pede gasolina, etanol ou energia elétrica e recebe no local.
+🚗 Como funciona
+O usuário acessa o app e solicita abastecimento.
 
-🟢 Hipótese 2
-Usuários ficam sem combustível no meio do trajeto.
-✅ Solução:
-Oferecer abastecimento emergencial, rápido, que leva combustível ou carga elétrica até o usuário para ele continuar o caminho.
+Escolhe o tipo de combustível (gasolina, etanol, diesel ou energia elétrica).
 
-🟢 Hipótese 3
-Falta de postos em regiões periféricas ou afastadas.
-✅ Solução:
-Criar uma rede de veículos de delivery que atendem áreas com pouca infraestrutura, levando combustível diretamente até o usuário.
+Uma van de abastecimento vai até o local indicado.
 
-🟢 Hipótese 4
-Risco de segurança ao parar em postos à noite.
-✅ Solução:
-Permitir abastecimento em casa ou local seguro, reduzindo exposição a assaltos e perigos.
+O veículo é abastecido de forma rápida e segura, sem necessidade de deslocamento.
 
-🟢 Hipótese 5
-Crescimento de carros elétricos sem infraestrutura suficiente.
-✅ Solução:
-Criar delivery de energia com:
-baterias portáteis
-estações móveis de recarga
+📌 Objetivos principais
+Praticidade: eliminar filas e deslocamentos até postos.
 
-🟢 Hipótese 6
-Motoristas esquecem de abastecer.
-✅ Solução:
-Iremos adicionar no app mais à frente;
-alerta de combustível baixo iremos colocar uma
-opção de agendar abastecimento automático, para o cliente não esquecer futuramente 
+Segurança: evitar que motoristas precisem parar em locais perigosos ou sair a pé em busca de combustível.
 
-🟢Hipótese 7
-Tempo perdido em filas de postos.
+Eficiência econômica: motoristas de aplicativo e empresas de frota economizam tempo e aumentam produtividade.
 
- As soluções envolvem o uso de tecnologia, como aplicativos de delivery, para levar combustível ou energia diretamente ao usuário, tornando o processo mais rápido, seguro e eficiente
- 
-=============================================================================================================================
-👥 9. Público‑alvo
-- Público-alvo: pessoas que possuem carro, caminhão ou moto.
-- Por quê?
-Porque são essas pessoas que precisam de combustível no dia a dia e, quando ele acaba, podem utilizar um aplicativo para chamar uma van de abastecimento, facilitando a vida delas.
+Inovação: criar um novo mercado de delivery de energia e combustível, com parcerias estratégicas.
 
-Público-alvo primário
-Motoristas que precisam de mobilidade imediata:
+Em resumo, o projeto é uma solução tecnológica para mobilidade urbana, que transforma o abastecimento em um serviço sob demanda, semelhante ao que já acontece com delivery de comida ou transporte por aplicativos.
+
+1. Problema (Larissa)
+Motoristas enfrentam pane seca ou falta de combustível em locais sem acesso rápido a postos.
+
+Há perda de tempo em filas e deslocamentos, além de riscos de segurança ao abastecer em horários ou locais perigosos.
+
+Empresas com frotas sofrem prejuízos operacionais quando veículos ficam parados.
+
+A falta de infraestrutura para carros elétricos amplia o problema.
+
+Consequências: estresse, atrasos, prejuízo financeiro, acidentes e impacto na mobilidade urbana.
+
+2. Público‑alvo (Amanda)
+Primário:
+
+Motoristas que já possuem veículos e os utilizam com frequência.
 
 Motoristas de aplicativo (Uber, 99).
-Pessoas que usam carro diariamente para trabalhar.
-Entregadores de moto.
-Motoristas que ficam sem combustível inesperadamente.
 
-Público-alvo secundário
+Entregadores de moto.
+
+Pessoas que usam carro diariamente para trabalhar.
+
+Secundário:
+
+Pessoas que não têm carro, mas pretendem ter.
 
 Empresas com frotas pequenas e médias.
-Condomínios residenciais (serviço recorrente).
-Estabelecimentos que necessitam de abastecimento para veículos internos.
 
-Público institucional
+Condomínios residenciais que podem contratar abastecimento recorrente.
+
+Institucional:
 
 Postos parceiros.
+
 Empresas de logística.
-Seguradoras (assistência 24h terceirizada).
+
+Seguradoras (assistência 24h).
+
 Prefeituras (mobilidade urbana).
 
-=============================================================================================================================
-O problema é mais evidente em áreas urbanas e suburbanas onde há:
+3. Objetivo do Projeto (Lívia)
+Criar um serviço de delivery de combustível que leve gasolina, etanol ou energia elétrica diretamente ao veículo do usuário.
 
-Trânsito intenso.
-Pouca disponibilidade de postos próximos.
-Regiões onde o deslocamento é inseguro.
-Locais com grande número de motoristas que usam carros para trabalho (Uber, entregadores, caminhonetes etc.)
+Oferecer praticidade, agilidade e segurança, evitando deslocamentos até postos.
 
+Atender tanto emergências quanto abastecimentos programados.
 
-🚨 3. Por que isso é grave? (Gravidade do problema)
-O problema é significativo porque:
-a) Afeta diretamente a mobilidade urbana
-Motoristas sem combustível podem:
+Estabelecer parcerias com empresas e postos, ampliando o mercado e gerando empregos.
 
-Travar vias.
-Exigir atendimentos emergenciais caros.
-Gerar acidentes.
+Contribuir para a redução do trânsito e aumento da eficiência econômica de motoristas e empresas.
 
-b) Impacta a segurança
-Sair à noite ou em áreas remotas para buscar combustível pode gerar riscos como:
+4. Hipóteses (Alef)
+Falta de tempo para ir ao posto → solução: app de delivery de combustível.
 
-Assaltos.
-Pane seca em locais perigosos.
-Dependência de desconhecidos para ajuda.
+Pane seca no trajeto → solução: abastecimento emergencial rápido.
 
-c) Gera prejuízos econômicos
-Para motoristas que dependem do carro para trabalhar, a falta de combustível significa:
+Falta de postos em regiões periféricas → solução: rede de vans de abastecimento.
 
-Perda de corridas.
-Cancelamento de entregas.
-Perda de renda imediata.
+Risco de segurança em postos à noite → solução: abastecimento em casa ou local seguro.
 
+Crescimento de carros elétricos sem infraestrutura → solução: delivery de energia com baterias portáteis e estações móveis.
 
-🎯 4. Quem é afetado?
-a) Usuários finais
+Motoristas esquecem de abastecer → solução: alertas e agendamento automático no app.
 
-Motoristas comuns.
-Motoristas de aplicativo.
-Entregadores motorizados.
-Empresas que possuem frotas.
+Tempo perdido em filas de postos → solução: abastecimento direto no veículo, sem espera.
 
-b) Empresas
+5. Levantamento de Dados (Evyllin)
+O delivery de combustível em São Paulo já existe em formato inicial.
 
-Frotas de transporte e logística que dependem de abastecimento regular.
-Postos de combustível que perdem vendas para concorrência e para a informalidade.
+O serviço pode reduzir 20 a 40 minutos de tempo gasto com deslocamento e filas.
 
-c) Sociedade em geral
+Permite organização de frotas e comparação de preços via aplicativo (diferenças de até 10% entre fornecedores).
 
-Mobilidade prejudicada quando veículos param nas ruas.
-Aumento de acidentes ou atendimentos de emergência.
+Pode contribuir para a redução do trânsito em alguns casos.
 
+Porém, apresenta limitações:
 
-🧩 5. Detalhamento do problema
-• Situação típica
-O usuário percebe que está sem combustível ou fica parado em pane seca e não tem:
+Disponibilidade restrita (não cobre 100% das regiões).
 
-Tempo para ir até o posto.
-Segurança para se deslocar a pé.
-Acesso imediato a um posto por proximidade.
+Preços mais altos devido à logística (em média 5% a 15% mais caro).
 
-• Emoções envolvidas
+Questões de segurança e fiscalização (transporte de combustível exige normas rigorosas).
 
-Estresse.
-Medo.
-Pressa.
-Prejuízo financeiro.
+Riscos de atrasos (de 30 minutos a 2 horas em horários de pico).
 
-• Resultado
-O motorista precisa de uma solução rápida e confiável para abastecer onde ele está.
+Possibilidade de fraudes ou vazamentos.
 
-🔁 6. Frequência do problema
-Embora motoristas não fiquem todos os dias sem combustível, as situações são comuns, especialmente:
+6. Vantagens e Desvantagens
+✅ Vantagens
 
-Entre motoristas de aplicativo que rodam o dia inteiro.
-Em cidades com muito trânsito.
-Em regiões sem postos próximos.
-Em emergências noturnas.
+Comodidade: abastecimento sem sair do lugar.
 
-Problema de média frequência, mas alto impacto quando acontece.
+Economia de tempo: redução de 20 a 40 minutos.
 
-🗺️ 7. Localização típica dos casos
+Organização de frotas com agendamento e controle centralizado.
 
-Estacionamentos.
-Condominios residenciais.
-Empresas.
-Rodovias.
-Estacionamentos de shoppings.
-Ruas urbanas.
+Comparação de preços entre fornecedores (diferença de até 10%).
 
+Redução de trânsito em alguns cenários.
 
-⚠️ 8. Tipo de impacto e consequências diretas
-Impacto imedidato
+Maior segurança ao evitar deslocamentos noturnos ou em áreas de risco.
 
-Veículo parado.
-Perda de tempo.
-Estresse.
-Risco de segurança.
+⚠️ Desvantagens
 
-Consequências diretas
+Cobertura limitada (não disponível em todas as regiões).
 
-Prejuízo financeiro.
-Atrasos (trabalho, compromissos).
-Possíveis multas em rodovias.
-Danos ao veículo se tentar rodar com combustível muito baixo.
+Preço mais alto (5% a 15% acima do posto físico).
 
-💡 10. Hipótese de impacto
-Se o aplicativo for implementado corretamente, espera-se que:
-a) Reduza a quantidade de veículos em pane seca
-→ Menos transtornos em vias públicas
-→ Melhor fluxo de trânsito
-→ Redução de acidentes
-b) Aumente a segurança dos motoristas
-→ Menos necessidade de deslocamento a pé
-→ Atendimento rápido e rastreado
-c) Melhore a eficiência econômica
-→ Motoristas de app e entregadores economizam tempo e aumentam renda
-→ Empresas conseguem manter frotas abastecidas sem parar operação
-d) Crie um novo mercado
-→ Postos parceiros aumentam vendas
-→ Gera empregos de operadores de entrega de combustível
+Logística complexa e dependente de regulamentação.
 
+Riscos de atrasos significativos em horários de pico.
 
+Necessidade de fiscalização rigorosa para evitar fraudes e vazamentos.
 
-
-- Público-alvo: pessoas que possuem carro, caminhão ou moto.
-- Por quê?
-Porque são essas pessoas que precisam de combustível no dia a dia e, quando ele acaba, podem utilizar um aplicativo para chamar uma van de abastecimento, facilitando a vida delas.
+Ainda funciona mais como complemento aos postos tradicionais, não como substituto total.
