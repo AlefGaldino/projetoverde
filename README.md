@@ -140,3 +140,282 @@ Riscos de atrasos significativos em horários de pico.
 Necessidade de fiscalização rigorosa para evitar fraudes e vazamentos.
 
 Ainda funciona mais como complemento aos postos tradicionais, não como substituto total.
+Código do site:
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GreenFlux - Seu Delivery de Combustível</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <div class="logo">
+                <img src="img/Designer.png" width="100" height="100" alt="GreenFlux Logo" class="logo-image">
+                <span class="logo-text">GreenFlux</span>
+            </div>
+            <nav class="nav">
+                <a href="#home">Início</a>
+                <a href="#restaurants">Postos</a>
+                <a href="#objetivo">Objetivo</a>
+                <a href="#how-it-works">Como Funciona</a>
+                <a href="#contact">Contato</a>
+            </nav>
+            <div class="header-actions">
+                <button class="btn-login">Entrar</button>
+                <button class="btn-cart">
+                    <span class="cart-icon">🛒</span>
+                    <span class="cart-count">0</span>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section id="home" class="hero">
+        <div class="container">
+            <div class="hero-content">
+                <h1>Combustível,<br><span>entregue onde você estiver</span></h1>
+                <p>Abasteça seu veículo sem sair de casa ou do trabalho. Entrega rápida e segura.</p>
+                <div class="search-box">
+                    <input type="text" placeholder="Digite seu endereço...">
+                    <button class="btn-search">🔍 Buscar</button>
+                </div>
+            </div>
+            <div class="hero-image">
+                <div class="delivery-illustration">
+                    <div class="bike">🚚</div>
+                    <div class="food-items">
+                        <span>⛽</span>
+                        <span>🛢️</span>
+                        <span>⚡</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Categories -->
+    <section class="categories">
+        <div class="container">
+            <h2>Tipos de Combustível</h2>
+            <div class="category-grid">
+                <div class="category-card">
+                    <div class="category-icon">⛽</div>
+                    <span>Gasolina</span>
+                </div>
+                
+                <div class="category-card">
+                    <div class="category-icon">⚡</div>
+                    <span>Etanol</span>
+                </div>
+                <div class="category-card">
+                    <div class="category-icon">🔋</div>
+                    <span>Elétrico</span>
+                </div>
+                <div class="category-card">
+                    <div class="category-icon">💨</div>
+                    <span>Gás Natural</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Popular Restaurants -->
+    <section id="restaurants" class="restaurants">
+        <div class="container">
+            <h2>Postos Próximos</h2>
+            <div class="restaurant-grid">
+                <div class="restaurant-card">
+                    <div class="restaurant-image" style="background: #E8F5E9;">
+                        <span class="restaurant-badge">⭐ 4.8</span>
+                    </div>
+                    <div class="restaurant-info">
+                        <h3>Posto Verde</h3>
+                        <p class="cuisine">Gasolina • Diesel • Etanol</p>
+                        <p class="delivery-time">🚚 15-25 min</p>
+                    </div>
+                </div>
+                <div class="restaurant-card">
+                    <div class="restaurant-image" style="background: #E8F5E9;">
+                        <span class="restaurant-badge">⭐ 4.6</span>
+                    </div>
+                    <div class="restaurant-info">
+                        <h3>EcoPosto</h3>
+                        <p class="cuisine">GNV • Elétrico</p>
+                        <p class="delivery-time">🚚 20-30 min</p>
+                    </div>
+                </div>
+                <div class="restaurant-card">
+                    <div class="restaurant-image" style="background: #E8F5E9;">
+                        <span class="restaurant-badge">⭐ 4.9</span>
+                    </div>
+                    <div class="restaurant-info">
+                        <h3>AutoFuel</h3>
+                        <p class="cuisine">Combustíveis • Lubrificantes</p>
+                        <p class="delivery-time">🚚 10-20 min</p>
+                    </div>
+                </div>
+                <div class="restaurant-card">
+                    <div class="restaurant-image" style="background: #E8F5E9;">
+                        <span class="restaurant-badge">⭐ 4.7</span>
+                    </div>
+                    <div class="restaurant-info">
+                        <h3>Power Fuel</h3>
+                        <p class="cuisine">Diesel • Aditivados</p>
+                        <p class="delivery-time">🚚 25-35 min</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- How It Works -->
+    <section id="how-it-works" class="how-it-works">
+        <div class="container">
+            <h2>Como Funciona</h2>
+            <div class="steps">
+                <div class="step">
+                    <div class="step-number">1</div>
+                    <div class="step-icon">📍</div>
+                    <h3>Digite sua localização</h3>
+                    <p>Informe onde seu veículo está</p>
+                </div>
+                <div class="step-connector">→</div>
+                <div class="step">
+                    <div class="step-number">2</div>
+                    <div class="step-icon">⛽</div>
+                    <h3>Escolha o combustível</h3>
+                    <p>Selecione o tipo e quantidade</p>
+                </div>
+                <div class="step-connector">→</div>
+                <div class="step">
+                    <div class="step-number">3</div>
+                    <div class="step-icon">🛒</div>
+                    <h3>Faça seu pedido</h3>
+                    <p>Confirme o tipo de combustível</p>
+                </div>
+                <div class="step-connector">→</div>
+                <div class="step">
+                    <div class="step-number">4</div>
+                    <div class="step-icon">🚚</div>
+                    <h3>Entrega no local</h3>
+                    <p>Abastecemos onde você estiver</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- App Download -->
+    <section class="app-download">
+        <div class="container">
+            <div class="app-content">
+                <div class="app-text">
+                    <h2>Baixe nosso app</h2>
+                    <p>Abasteça de qualquer lugar. Disponível para iOS e Android.</p>
+                    <div class="app-buttons">
+                        <button class="btn-app">
+                            <span class="app-icon">🍎</span>
+                            <span>App Store</span>
+                        </button>
+                        <button class="btn-app">
+                            <span class="app-icon">🤖</span>
+                            <span>Google Play</span>
+                        </button>
+                    </div>
+                </div>
+                <div class="app-image">
+                    <div class="phone-mockup">📱</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Objectives Section -->
+    <section id="objetivo" class="objectives">
+        <div class="container">
+            <h2>🎯 Objetivo & Problema</h2>
+            <p class="objectives-subtitle">Transformando o abastecimento em um serviço sob demanda</p>
+            
+            <div class="objectives-grid">
+                <div class="objectives-card problems">
+                    <h3>⚠️ Problema</h3>
+                    <ul>
+                        <li>📌 Motoristas enfrentam <strong>pane seca</strong> ou falta de combustível em locais sem acesso rápido a postos.</li>
+                        <li>📌 Perda de tempo em <strong>filas e deslocamentos</strong>.</li>
+                        <li>📌 <strong>Riscos de segurança</strong> ao abastecer em horários ou locais perigosos.</li>
+                        <li>📌 Empresas com frotas sofrem <strong>prejuízos operacionais</strong> quando veículos ficam parados.</li>
+                        <li>📌 Falta de infraestrutura para <strong>carros elétricos</strong>.</li>
+                    </ul>
+                    <div class="consequences">
+                        <h4>📋 Consequências:</h4>
+                        <p>Estresse, atrasos, prejuízo financeiro, acidentes e impacto na mobilidade urbana.</p>
+                    </div>
+                </div>
+                
+                <div class="objectives-card goals">
+                    <h3>✅ Objetivos Principais</h3>
+                    <ul>
+                        <li>🔹 <strong>Praticidade:</strong> Eliminar filas e deslocamentos até postos.</li>
+                        <li>🔹 <strong>Segurança:</strong> Evitar que motoristas precisem parar em locais perigosos ou sair a pé em busca de combustível.</li>
+                        <li>🔹 <strong>Eficiência econômica:</strong> Motoristas de aplicativo e empresas de frota economizam tempo e aumentam produtividade.</li>
+                        <li>🔹 <strong>Inovação:</strong> Criar um novo mercado de delivery de energia e combustível, com parcerias estratégicas.</li>
+                    </ul>
+                    <div class="summary">
+                        <h4>💡 Em resumo:</h4>
+                        <p>Uma solução tecnológica para mobilidade urbana, que transforma o abastecimento em um serviço sob demanda, semelhante ao que já acontece com delivery de comida ou transporte por aplicativos.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer id="contact" class="footer">
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-section">
+                    <div class="logo">
+                        <span class="logo-icon">⛽</span>
+                        <span class="logo-text">GreenFuel</span>
+                    </div>
+                    <p>Sua combustível entregue com rapidez e sustentabilidade.</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Empresa</h4>
+                    <a href="#">Sobre nós</a>
+                    <a href="#">Carreiras</a>
+                    <a href="#">Blog</a>
+                </div>
+                <div class="footer-section">
+                    <h4>Para Você</h4>
+                    <a href="#">Postos parceiros</a>
+                    <a href="#">Entregadores</a>
+                    <a href="#">Ajuda</a>
+                </div>
+                <div class="footer-section">
+                    <h4>Contato</h4>
+                    <a href="#">📧 contato@greenfuel.com.br</a>
+                    <a href="#">📞 0800 123 4567</a>
+                    <div class="social-links">
+                        <a href="#">📘</a>
+                        <a href="#">📷</a>
+                        <a href="#">🐦</a>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>© 2026 GreenFuel. Todos os direitos reservados.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
