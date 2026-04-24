@@ -87,7 +87,7 @@ Alertas de pane seca simulados
 
 Agendamento automático de abastecimento.
 
-===========================================================================================
+=========================================================================================
 
 Ainda funciona mais como complemento aos postos tradicionais, não como substituto total.
 Código do site:
