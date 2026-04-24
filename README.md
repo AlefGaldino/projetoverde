@@ -1,6 +1,6 @@
 Projeto Delivery de Combustível e Energia
 Este projeto tem como objetivo explicar, simular e conscientizar sobre os desafios do abastecimento urbano, oferecendo uma solução tecnológica que conecta motoristas e empresas a vans especializadas que levam combustível ou energia elétrica diretamente até o veículo.
-=
+
 
 Visão Geral
 Tema: Mobilidade urbana e abastecimento sob demanda.
