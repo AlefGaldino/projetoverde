@@ -1,91 +1,119 @@
-Projeto Delivery de Combustível e Energia
--Este projeto tem como objetivo explicar, simular e conscientizar sobre os desafios do abastecimento urbano, oferecendo uma solução tecnológica que conecta motoristas e empresas a vans especializadas que levam combustível ou energia elétrica diretamente até o veículo.
+🚗⚡ Projeto Delivery de Combustível e Energia
+=
+🎯 Objetivo
+Este projeto tem como objetivo explicar, simular e conscientizar sobre os desafios do abastecimento urbano, oferecendo uma solução tecnológica que conecta motoristas e empresas a vans especializadas que levam combustível ou energia elétrica diretamente até o veículo.
 =
 
-Visão Geral
+🌍 Visão Geral
 Tema: Mobilidade urbana e abastecimento sob demanda
+=
 
+Problema tratado:
+=
 
-Problema tratado: Pane seca, filas em postos, falta de infraestrutura para veículos elétricos e riscos de segurança.
+ - Pane seca 🚨
+
+ - Filas em postos ⏳
+
+ - Falta de infraestrutura para veículos elétricos 🔋
+
+- Riscos de segurança à noite ou em áreas perigosas 🛡️
 
 Tecnologias utilizadas:
-Aplicativo mobile: para solicitação de abastecimento.
+=
 
-Geolocalização: para envio da van até o veículo.
+- 📱 Aplicativo mobile: solicitação de abastecimento
 
-Integração com frotas: para agendamento e controle centralizado.
+- 📍 Geolocalização: envio da van até o veículo
 
-GitHub: documentação e versionamento do projeto.
+- 🏢 Integração com frotas: agendamento e controle centralizado
 
-Problema
-Motoristas enfrentam pane seca ou falta de combustível em locais sem acesso rápido a postos.
-Há perda de tempo em filas e deslocamentos, além de riscos de segurança ao abastecer em horários ou locais perigosos.
-Empresas com frotas sofrem prejuízos operacionais quando veículos ficam parados.
-A falta de infraestrutura para carros elétricos amplia o problema.
+- 💻 GitHub: documentação e versionamento do projeto
 
-Causas principais
-Pane seca durante o trajeto.
+❌ Problema
+=
+- Motoristas enfrentam pane seca ou falta de combustível em locais sem acesso rápido a postos.
 
-Filas e deslocamentos até postos.
+- Há perda de tempo em filas e deslocamentos.
 
-Falta de infraestrutura para veículos elétricos.
+- Riscos de segurança ao abastecer em horários ou locais perigosos.
 
+- Empresas com frotas sofrem prejuízos operacionais quando veículos ficam parados.
 
-Impactos
-Estresse e atrasos.
+- A falta de infraestrutura para carros elétricos amplia o problema.
 
-Prejuízo financeiro e acidentes. 
+🔎 Causas Principais
+=
+- 🚨 Pane seca durante o trajeto
 
-Impacto negativo na mobilidade urbana.
+- ⏳ Filas e deslocamentos até postos
 
-Objetivo
-Objetivo geral: Criar um serviço de delivery de combustível e energia que leve gasolina, etanol,ou eletricidade diretamente ao veículo do usuário.
+- 🔋 Falta de infraestrutura para veículos elétricos
+
+⚠️ Impactos
+=
+- 😰 Estresse e atrasos
+
+- 💸 Prejuízo financeiro
+
+- 🚧 Acidentes e impacto negativo na mobilidade urbana
+
+🎯 Objetivos
+Objetivo geral:  
+Criar um serviço de delivery de combustível e energia que leve gasolina, etanol ou eletricidade diretamente ao veículo do usuário.
+=
 
 Objetivos específicos:
+=
 
-Oferecer praticidade e agilidade.
+- ✅ Oferecer praticidade e agilidade
 
-Garantir segurança ao evitar deslocamentos em locais de risco.
+- 🛡️ Garantir segurança ao evitar deslocamentos em locais de risco
 
-Atender emergências e abastecimentos programados.
+- 🚨 Atender emergências e abastecimentos programados
 
-Estabelecer parcerias estratégicas com empresas e postos.
+- 🤝 Estabelecer parcerias estratégicas com empresas e postos
 
-Contribuir para redução do trânsito e aumento da eficiência econômica.
+- 🚦 Contribuir para redução do trânsito e aumento da eficiência econômica
 
-Público-Alvo
-Primário: Motoristas de carros, motos,motoristas de aplicativo e entregadores.
+👥 Público-Alvo
+Primário: Motoristas de carros, motos, motoristas de aplicativo e entregadores
+=
 
-Secundário: Pessoas que pretendem ter veículo, empresas com frotas pequenas e médias, condomínios residenciais.
+Secundário: Pessoas que pretendem ter veículo, empresas com frotas pequenas e médias, condomínios residenciais
+=
 
-Ampliado/Institucional: Postos parceiros, empresas de logística, seguradoras e prefeituras.
-
-Hipótese de Impacto
+💡 Hipótese de Impacto
 Se criarmos um aplicativo de delivery de combustível e energia, então motoristas e empresas terão maior praticidade, segurança e eficiência, reduzindo tempo perdido em filas e deslocamentos e aumentando a produtividade.
+=
 
-Solução Proposta
-Funcionamento
-Usuário acessa o app e solicita abastecimento.
+🚀 Solução Proposta
+Funcionamento:
+=
 
-Escolhe o tipo de combustível ou energia.
+- 📱 Usuário acessa o app e solicita abastecimento
 
-Uma van especializada vai até o local indicado.
+- ⛽ Escolhe o tipo de combustível ou energia
 
-O veículo é abastecido de forma rápida e segura.
+- 🚐 Uma van especializada vai até o local indicado
 
-Simulação no Minecraft Education
-Ruas e avenidas representando pontos de abastecimento.
+- 🔒 O veículo é abastecido de forma rápida e segura
 
-Posto de combustível, Plataforma de Petróleo e Refinaria
+🎮 Simulação no Minecraft Education 
+=
+- 🛣️ Ruas e avenidas representando pontos de abastecimento
 
-Vans de abastecimento
+- ⛽ Posto de combustível, plataforma de petróleo e refinaria
 
-Condomínios e empresas simulando abastecimento programado.
+- 🚐 Vans de abastecimento
 
-Automações com MakeCode
-Alertas de pane seca simulados
+- 🏢 Condomínios e empresas simulando abastecimento programado
 
-Agendamento automático de abastecimento.
+🤖 Automações com MakeCode
+=
+- 🚨 Alertas de pane seca simulados
+
+- 📅 Agendamento automático de abastecimento
 
 Ainda funciona mais como complemento aos postos tradicionais, não como substituto total.
 Código do site:
