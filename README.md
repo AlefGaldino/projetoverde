@@ -1,59 +1,45 @@
 Projeto Delivery de Combustível e Energia
 Este projeto tem como objetivo explicar, simular e conscientizar sobre os desafios do abastecimento urbano, oferecendo uma solução tecnológica que conecta motoristas e empresas a vans especializadas que levam combustível ou energia elétrica diretamente até o veículo.
-
+=
 
 Visão Geral
-Tema: Mobilidade urbana e abastecimento sob demanda.
-=
+Tema: Mobilidade urbana e abastecimento sob demanda
+
 
 Problema tratado: Pane seca, filas em postos, falta de infraestrutura para veículos elétricos e riscos de segurança.
-=
 
 Tecnologias utilizadas:
-=
-
 Aplicativo mobile: para solicitação de abastecimento.
-=
 
 Geolocalização: para envio da van até o veículo.
-=
 
 Integração com frotas: para agendamento e controle centralizado.
-=
 
 GitHub: documentação e versionamento do projeto.
-=
 
 Problema
 Motoristas enfrentam pane seca ou falta de combustível em locais sem acesso rápido a postos.
 Há perda de tempo em filas e deslocamentos, além de riscos de segurança ao abastecer em horários ou locais perigosos.
 Empresas com frotas sofrem prejuízos operacionais quando veículos ficam parados.
 A falta de infraestrutura para carros elétricos amplia o problema.
-=
 
 Causas principais
 Pane seca durante o trajeto.
-=
 
 Filas e deslocamentos até postos.
-=
 
 Falta de infraestrutura para veículos elétricos.
-=
+
 
 Impactos
 Estresse e atrasos.
-=
 
 Prejuízo financeiro e acidentes. 
-=
-
 
 Impacto negativo na mobilidade urbana.
-=
 
 Objetivo
-Objetivo geral: Criar um serviço de delivery de combustível e energia que leve gasolina, etanol, diesel ou eletricidade diretamente ao veículo do usuário.
+Objetivo geral: Criar um serviço de delivery de combustível e energia que leve gasolina, etanol,ou eletricidade diretamente ao veículo do usuário.
 
 Objetivos específicos:
 
@@ -68,7 +54,7 @@ Estabelecer parcerias estratégicas com empresas e postos.
 Contribuir para redução do trânsito e aumento da eficiência econômica.
 
 Público-Alvo
-Primário: Motoristas de carros, motos, caminhões, motoristas de aplicativo e entregadores.
+Primário: Motoristas de carros, motos,motoristas de aplicativo e entregadores.
 
 Secundário: Pessoas que pretendem ter veículo, empresas com frotas pequenas e médias, condomínios residenciais.
 
@@ -90,20 +76,18 @@ O veículo é abastecido de forma rápida e segura.
 Simulação no Minecraft Education
 Ruas e avenidas representando pontos de abastecimento.
 
-Estações móveis de energia elétrica.
+Posto de combustível, Plataforma de Petróleo e Refinaria
 
-Vans de abastecimento circulando pela cidade.
+Vans de abastecimento
 
 Condomínios e empresas simulando abastecimento programado.
 
 Automações com MakeCode
-Alertas de pane seca simulados.
+Alertas de pane seca simulados
 
 Agendamento automático de abastecimento.
 
-Comparação de preços entre fornecedores.
-
-Controle de frota com relatórios automatizados.
+===========================================================================================
 
 Ainda funciona mais como complemento aos postos tradicionais, não como substituto total.
 Código do site:
