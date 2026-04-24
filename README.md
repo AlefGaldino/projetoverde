@@ -1,143 +1,109 @@
-🎯 O que é o projeto
-Um aplicativo que conecta usuários (motoristas de carros, motos, caminhões ou empresas com frotas) a vans especializadas que levam combustível ou energia elétrica diretamente até o veículo.
+Projeto Delivery de Combustível e Energia
+Este projeto tem como objetivo explicar, simular e conscientizar sobre os desafios do abastecimento urbano, oferecendo uma solução tecnológica que conecta motoristas e empresas a vans especializadas que levam combustível ou energia elétrica diretamente até o veículo.
+=
 
-Funciona tanto em situações emergenciais (pane seca, falta de postos próximos, risco de segurança) quanto em abastecimentos programados (frotas, condomínios, empresas).
+Visão Geral
+Tema: Mobilidade urbana e abastecimento sob demanda.
+=
 
-O serviço busca ser um complemento aos postos tradicionais, oferecendo comodidade, redução de tempo e maior segurança.
+Problema tratado: Pane seca, filas em postos, falta de infraestrutura para veículos elétricos e riscos de segurança.
+=
 
-🚗 Como funciona
-O usuário acessa o app e solicita abastecimento.
+Tecnologias utilizadas:
+=
 
-Escolhe o tipo de combustível (gasolina, etanol, diesel ou energia elétrica).
+Aplicativo mobile: para solicitação de abastecimento.
+=
 
-Uma van de abastecimento vai até o local indicado.
+Geolocalização: para envio da van até o veículo.
+=
 
-O veículo é abastecido de forma rápida e segura, sem necessidade de deslocamento.
+Integração com frotas: para agendamento e controle centralizado.
+=
 
-📌 Objetivos principais
-Praticidade: eliminar filas e deslocamentos até postos.
+GitHub: documentação e versionamento do projeto.
+=
 
-Segurança: evitar que motoristas precisem parar em locais perigosos ou sair a pé em busca de combustível.
-
-Eficiência econômica: motoristas de aplicativo e empresas de frota economizam tempo e aumentam produtividade.
-
-Inovação: criar um novo mercado de delivery de energia e combustível, com parcerias estratégicas.
-
-Em resumo, o projeto é uma solução tecnológica para mobilidade urbana, que transforma o abastecimento em um serviço sob demanda, semelhante ao que já acontece com delivery de comida ou transporte por aplicativos.
-
-1. Problema (Larissa)
+Problema
 Motoristas enfrentam pane seca ou falta de combustível em locais sem acesso rápido a postos.
-
 Há perda de tempo em filas e deslocamentos, além de riscos de segurança ao abastecer em horários ou locais perigosos.
-
 Empresas com frotas sofrem prejuízos operacionais quando veículos ficam parados.
-
 A falta de infraestrutura para carros elétricos amplia o problema.
+=
 
-Consequências: estresse, atrasos, prejuízo financeiro, acidentes e impacto na mobilidade urbana.
+Causas principais
+Pane seca durante o trajeto.
+=
 
-2. Público‑alvo (Amanda)
-Primário:
+Filas e deslocamentos até postos.
+=
 
-Motoristas que já possuem veículos e os utilizam com frequência.
+Falta de infraestrutura para veículos elétricos.
+=
 
-Motoristas de aplicativo (Uber, 99).
+Impactos
+Estresse e atrasos.
+=
 
-Entregadores de moto.
+Prejuízo financeiro e acidentes. 
+=
 
-Pessoas que usam carro diariamente para trabalhar.
 
-Secundário:
+Impacto negativo na mobilidade urbana.
+=
 
-Pessoas que não têm carro, mas pretendem ter.
+Objetivo
+Objetivo geral: Criar um serviço de delivery de combustível e energia que leve gasolina, etanol, diesel ou eletricidade diretamente ao veículo do usuário.
 
-Empresas com frotas pequenas e médias.
+Objetivos específicos:
 
-Condomínios residenciais que podem contratar abastecimento recorrente.
+Oferecer praticidade e agilidade.
 
-Institucional:
+Garantir segurança ao evitar deslocamentos em locais de risco.
 
-Postos parceiros.
+Atender emergências e abastecimentos programados.
 
-Empresas de logística.
+Estabelecer parcerias estratégicas com empresas e postos.
 
-Seguradoras (assistência 24h).
+Contribuir para redução do trânsito e aumento da eficiência econômica.
 
-Prefeituras (mobilidade urbana).
+Público-Alvo
+Primário: Motoristas de carros, motos, caminhões, motoristas de aplicativo e entregadores.
 
-3. Objetivo do Projeto (Lívia)
-Criar um serviço de delivery de combustível que leve gasolina, etanol ou energia elétrica diretamente ao veículo do usuário.
+Secundário: Pessoas que pretendem ter veículo, empresas com frotas pequenas e médias, condomínios residenciais.
 
-Oferecer praticidade, agilidade e segurança, evitando deslocamentos até postos.
+Ampliado/Institucional: Postos parceiros, empresas de logística, seguradoras e prefeituras.
 
-Atender tanto emergências quanto abastecimentos programados.
+Hipótese de Impacto
+Se criarmos um aplicativo de delivery de combustível e energia, então motoristas e empresas terão maior praticidade, segurança e eficiência, reduzindo tempo perdido em filas e deslocamentos e aumentando a produtividade.
 
-Estabelecer parcerias com empresas e postos, ampliando o mercado e gerando empregos.
+Solução Proposta
+Funcionamento
+Usuário acessa o app e solicita abastecimento.
 
-Contribuir para a redução do trânsito e aumento da eficiência econômica de motoristas e empresas.
+Escolhe o tipo de combustível ou energia.
 
-4. Hipóteses (Alef)
-Falta de tempo para ir ao posto → solução: app de delivery de combustível.
+Uma van especializada vai até o local indicado.
 
-Pane seca no trajeto → solução: abastecimento emergencial rápido.
+O veículo é abastecido de forma rápida e segura.
 
-Falta de postos em regiões periféricas → solução: rede de vans de abastecimento.
+Simulação no Minecraft Education
+Ruas e avenidas representando pontos de abastecimento.
 
-Risco de segurança em postos à noite → solução: abastecimento em casa ou local seguro.
+Estações móveis de energia elétrica.
 
-Crescimento de carros elétricos sem infraestrutura → solução: delivery de energia com baterias portáteis e estações móveis.
+Vans de abastecimento circulando pela cidade.
 
-Motoristas esquecem de abastecer → solução: alertas e agendamento automático no app.
+Condomínios e empresas simulando abastecimento programado.
 
-Tempo perdido em filas de postos → solução: abastecimento direto no veículo, sem espera.
+Automações com MakeCode
+Alertas de pane seca simulados.
 
-5. Levantamento de Dados (Evyllin)
-O delivery de combustível em São Paulo já existe em formato inicial.
+Agendamento automático de abastecimento.
 
-O serviço pode reduzir 20 a 40 minutos de tempo gasto com deslocamento e filas.
+Comparação de preços entre fornecedores.
 
-Permite organização de frotas e comparação de preços via aplicativo (diferenças de até 10% entre fornecedores).
-
-Pode contribuir para a redução do trânsito em alguns casos.
-
-Porém, apresenta limitações:
-
-Disponibilidade restrita (não cobre 100% das regiões).
-
-Preços mais altos devido à logística (em média 5% a 15% mais caro).
-
-Questões de segurança e fiscalização (transporte de combustível exige normas rigorosas).
-
-Riscos de atrasos (de 30 minutos a 2 horas em horários de pico).
-
-Possibilidade de fraudes ou vazamentos.
-
-6. Vantagens e Desvantagens
-✅ Vantagens
-
-Comodidade: abastecimento sem sair do lugar.
-
-Economia de tempo: redução de 20 a 40 minutos.
-
-Organização de frotas com agendamento e controle centralizado.
-
-Comparação de preços entre fornecedores (diferença de até 10%).
-
-Redução de trânsito em alguns cenários.
-
-Maior segurança ao evitar deslocamentos noturnos ou em áreas de risco.
-
-⚠️ Desvantagens
-
-Cobertura limitada (não disponível em todas as regiões).
-
-Preço mais alto (5% a 15% acima do posto físico).
-
-Logística complexa e dependente de regulamentação.
-
-Riscos de atrasos significativos em horários de pico.
-
-Necessidade de fiscalização rigorosa para evitar fraudes e vazamentos.
+Controle de frota com relatórios automatizados.
 
 Ainda funciona mais como complemento aos postos tradicionais, não como substituto total.
 Código do site:
