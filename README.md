@@ -171,7 +171,7 @@ Pessoas que precisam de recarga em locais sem pontos de energia, podendo ser ate
 ===============================================================================================================
 Ainda funciona mais como complemento aos postos tradicionais, não como substituto total.
 Código do site:
-<!DOCTYPE html>
+      <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
@@ -181,6 +181,7 @@ Código do site:
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-sA+o5m3vM5a4/0kxaCW7RJhFt0VrVhXZ8A4Qv+JbjnM=" crossorigin="" />
 </head>
 <body>
     <!-- Header -->
@@ -198,7 +199,8 @@ Código do site:
                 <a href="#contact">Contato</a>
             </nav>
             <div class="header-actions">
-                <button class="btn-login">Entrar</button>
+                <button class="btn-login" onclick="window.location.href='login.html'">Entrar</button>
+                <button class="btn-create-account" onclick="window.location.href='login.html'">Criar conta</button>
                 <button class="btn-cart">
                     <span class="cart-icon">🛒</span>
                     <span class="cart-count">0</span>
@@ -216,16 +218,6 @@ Código do site:
                 <div class="search-box">
                     <input type="text" placeholder="Digite seu endereço...">
                     <button class="btn-search">🔍 Buscar</button>
-                </div>
-            </div>
-            <div class="hero-image">
-                <div class="delivery-illustration">
-                    <div class="bike">🚚</div>
-                    <div class="food-items">
-                        <span>⛽</span>
-                        <span>🛢️</span>
-                        <span>⚡</span>
-                    </div>
                 </div>
             </div>
         </div>
@@ -342,6 +334,20 @@ Código do site:
         </div>
     </section>
 
+    <!-- Mapa com Geolocalização -->
+    <section id="map-section" class="map-section">
+        <div class="container">
+            <h2>📍 Encontre Postos Próximos</h2>
+            <p class="map-subtitle">Clique no campo abaixo para usar sua localização real</p>
+            
+            <div class="map-search">
+                <input type="text" id="endereco" class="geo-input" placeholder="Clique aqui para usar sua localização atual">
+            </div>
+            
+            <div id="map" class="google-map"></div>
+        </div>
+    </section>
+
     <!-- App Download -->
     <section class="app-download">
         <div class="container">
@@ -359,9 +365,6 @@ Código do site:
                             <span>Google Play</span>
                         </button>
                     </div>
-                </div>
-                <div class="app-image">
-                    <div class="phone-mockup">📱</div>
                 </div>
             </div>
         </div>
@@ -446,6 +449,7 @@ Código do site:
         </div>
     </footer>
 
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-o9N1j6Ntc7a8FiFjOew01eoh0+6DZZvy8MogS9+6Uq4=" crossorigin=""></script>
+    <script src="map.js"></script>
     <script src="script.js"></script>
-</body>
-</html>
+    
