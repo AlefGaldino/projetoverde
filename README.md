@@ -169,6 +169,10 @@ Locais com infraestrutura limitada, onde o acesso a postos é difícil e o deliv
 Pessoas que precisam de recarga em locais sem pontos de energia, podendo ser atendidas por vans adaptadas.
 
 ===============================================================================================================
+
+Diálogo do Projeto dos Npc´s
+
+
 Ainda funciona mais como complemento aos postos tradicionais, não como substituto total.
 Código do site:
       <!DOCTYPE html>
