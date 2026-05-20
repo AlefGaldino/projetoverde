@@ -34,6 +34,38 @@ Um exemplo de prompt foi:
 
 Esse pedido foi feito de forma clara e objetiva, permitindo que a IA estruturasse o conteúdo em formato de relatório.
 
+📌 Motivos para usar IA
+Agilidade → a IA processa grandes volumes de informações sobre população, mobilidade e infraestrutura muito mais rápido do que métodos tradicionais.
+
+Precisão → reduz erros humanos e garante dados mais confiáveis para planejar soluções.
+
+Integração de fontes → consegue cruzar dados de trânsito, densidade populacional, localização de postos e hábitos de consumo.
+
+Previsão de cenários → permite simular situações futuras, como aumento da frota de veículos ou expansão urbana.
+
+⚙️ Aplicações práticas em Poá
+Mapeamento populacional → identificar áreas com maior concentração de pessoas e veículos.
+
+Localização estratégica → apontar regiões com pouca infraestrutura de abastecimento.
+
+Análise de mobilidade → entender os fluxos de trânsito e onde há maior risco de pane seca.
+
+Planejamento de serviços → definir onde o delivery de combustível seria mais útil e eficiente.
+
+🎯 Objetivo do uso da IA
+Tornar o levantamento de dados mais rápido, confiável e inteligente.
+
+Apoiar decisões estratégicas sobre onde e como implementar o delivery de combustível.
+
+Garantir que o projeto seja realista e conectado às necessidades da população local.
+
+🌍 Relação com o tema
+O tema do projeto é resolver problemas populacionais ligados à mobilidade e abastecimento.
+
+A IA ajuda a representar esses problemas com dados concretos e a propor soluções mais eficazes.
+
+Assim, o uso da IA em Poá mostra como a tecnologia pode ser aplicada para enfrentar desafios urbanos e melhorar a vida da população.
+
 ⚠️ Problemas Encontrados
 Algumas respostas iniciais estavam genéricas e precisaram ser adaptadas ao contexto específico do projeto.
 
@@ -49,9 +81,6 @@ Refinamos os textos para evitar redundâncias.
 Reorganizamos trechos que estavam fora de ordem
 
 Exemplo de ajuste:
-
-markdown
-// Antes
 Hipótese: Motoristas esquecem de abastecer → solução: alertas no app.  
 
 // Depois
