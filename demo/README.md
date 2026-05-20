@@ -23,3 +23,19 @@ Mapa personalizado
 Construções de base de combustível (posto, refinaria e plataforma de petroleo)
 Agente simulando entrega de combustivel
 Rotas criadas no mundo
+🚀 Solução Proposta
+Funcionamento:
+
+- 🛣️ Ruas e avenidas representando pontos de abastecimento
+
+- ⛽ Posto de combustível, plataforma de petróleo e refinaria
+
+- 🚐 Vans de abastecimento
+
+- 🏢 Condomínios e empresas simulando abastecimento programado
+
+🤖 Automações com MakeCode
+=
+- 🚨 Alertas de pane seca simulados
+
+- 📅 pedido de abastecimento do delivery de combustivel
