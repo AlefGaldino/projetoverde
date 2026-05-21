@@ -95,8 +95,13 @@ reinicia o funcionamento.
 
 🛠️ Tecnologias Utilizadas
 Minecraft Education
+
 MakeCode JavaScript
+
 Sistema de Agentes
+
 Loops automáticos
+
+
 Comandos de chat
 Detecção de posição
