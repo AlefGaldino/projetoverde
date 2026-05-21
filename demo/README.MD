@@ -1,6 +1,6 @@
 📦 Materiais utilizados no projeto
 💻 Tecnologia e desenvolvimento
-Python e Java Script (simulação da lógica do sistema)
+Java Script (simulação da lógica do sistema)
 Power Bi e Excel (acomo pedidos e estoque)
 Editor de código (VS Code)
 
