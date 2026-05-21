@@ -35,7 +35,7 @@ Usuário → Pedido → Validação → Entrega → Finalização
 📈 Possíveis melhorias futuras
 Sistema de pagamento online
 Aplicativo mobile
-Rastreamento em tempo real do caminhão
+Rastreamento em tempo real do caminhão 
 Inteligência artificial para otimizar rotas
 Interface gráfica mais avançada
 
