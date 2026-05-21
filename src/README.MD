@@ -5,10 +5,15 @@ Comando
 Ativa o sistema do Minecart.
 
 ✅ O que acontece
+
 ativa o veículo;
+
 salva a posição atual;
+
 inicia o consumo de combustível;
+
 mostra mensagens no chat.
+
 🚶 Sistema de Saída
 Comando
 /sair
