@@ -39,3 +39,5 @@ Funcionamento:
 - 🚨 Alertas de pane seca simulados
 
 - 📅 pedido de abastecimento do delivery de combustivel
+
+- Teletransporte dentro do Minecraft
