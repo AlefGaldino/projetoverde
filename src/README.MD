@@ -118,7 +118,9 @@ Após o suporte:
 combustivel = 100
 ✅ O sistema
 restaura combustível;
+
 libera nova viagem;
+
 reinicia o funcionamento.
 
 🛠️ Tecnologias Utilizadas
