@@ -92,6 +92,7 @@ combustivel = 100
 restaura combustível;
 libera nova viagem;
 reinicia o funcionamento.
+
 🛠️ Tecnologias Utilizadas
 Minecraft Education
 MakeCode JavaScript
