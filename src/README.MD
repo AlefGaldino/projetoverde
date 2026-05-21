@@ -56,6 +56,7 @@ O combustível reduz conforme o jogador se move.
 Quando o combustível chega em 25%:
 
 if (combustivel <= 25)
+
 ✅ Resultado
 
 O sistema exibe um alerta de combustível baixo.
@@ -65,10 +66,15 @@ O sistema exibe um alerta de combustível baixo.
 Quando o combustível chega em 0:
 
 if (combustivel == 0)
+
 ✅ O sistema
+
 quebra o Minecart;
+
 remove o veículo;
+
 chama o agente de suporte.
+
 🗑️ Remoção do Minecart
 player.execute("kill @e[type=minecart,r=5]")
 
