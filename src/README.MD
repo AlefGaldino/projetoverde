@@ -23,17 +23,25 @@ Desativa o Minecart.
 ✅ O que acontece
 jogador sai do veículo;
 combustível para de ser consumido.
+
 ⛽ Sistema de Combustível
 
 Executado continuamente usando:
 
 loops.forever(function ()
+
 🔄 O sistema
+
 verifica se o jogador está no Minecart;
+
 detecta movimentação;
+
 reduz combustível;
+
 mostra avisos;
+
 ativa pane seca quando necessário.
+
 📍 Detecção de Movimento
 
 O código compara:
