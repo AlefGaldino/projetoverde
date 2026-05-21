@@ -54,7 +54,9 @@ posAtual.getValue(Axis.X)
 Se houver movimento:
 
 o combustível diminui.
+
 ⛽ Consumo de Combustível
+
 combustivel -= 30
 
 O combustível reduz conforme o jogador se move.
