@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perfil - GreenFlux</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="header">
+        <div class="container header-inner">
+            <div class="logo">
+                <img src="DESIGNER.png" width="100" height="100" alt="GreenFlux Logo" class="logo-image">
+                <div>
+                    <span class="logo-text">GreenFlux</span>
+                </div>
+            </div>
+            <nav class="nav">
+                <a href="Index.HTML#home">Início</a>
+                <a href="Index.HTML#how-it-works">Como Funciona</a>
+                <a href="Index.HTML#objetivo">Objetivo</a>
+                <a href="Index.HTML#contact">Contato</a>
+            </nav>
+            <div class="header-actions"></div>
+        </div>
+    </header>
+    <main class="profile-page">
+        <div class="profile-panel">
+            <h2>Meu Perfil</h2>
+            <div class="profile-info">
+                <p><strong>Nome:</strong><span id="profile-name">-</span></p>
+                <p><strong>Email:</strong><span id="profile-email">-</span></p>
+            </div>
+            <div class="profile-accounts">
+                <h3>Contas cadastradas</h3>
+                <div id="account-list"></div>
+            </div>
+            <button id="logout-button" class="logout-button">Sair</button>
+        </div>
+    </main>
+    <script src="auth.js"></script>
+</body>
+</html>
