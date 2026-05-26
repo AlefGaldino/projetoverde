@@ -115,12 +115,7 @@ Funcionamento:
 
 - 📅 Agendamento automático de abastecimento
 ========================================================================================================================
-chat dos npcs para não perder
-robô inicial: SAUDAÇÕES, VIAJANTE! NÓS SOMOS OS CODEMAKERS, O GRUPO VERDE DA MICROSOFT. HOJE VAMOS FALAR SOBRE UM TEMA ESSENCIAL PARA A MOBILIDADE: O DELIVERY DE COMBUSTÍVEL PARA CARROS E MOTOS TRADICIONAIS, E TAMBÉM A ENTREGA DE ENERGIA PARA VEÍCULOS ELÉTRICOS. NOSSO OBJETIVO É MOSTRAR COMO INOVAÇÃO E SUSTENTABILIDADE PODEM ANDAR LADO A LADO, GARANTINDO QUE NINGUÉM FIQUE PARADO NO CAMINHO.
 
-COMBUSTÍVEL É UMA SUBSTÂNCIA UTILIZADA PARA PRODUZIR ENERGIA. ELE PODE SER LÍQUIDO, SÓLIDO OU GASOSO, E SUA FUNÇÃO PRINCIPAL É GERAR MOVIMENTO OU CALOR QUANDO É QUEIMADO OU TRANSFORMADO. NOS CARROS E MOTOS TRADICIONAIS, O COMBUSTÍVEL MAIS COMUM É A GASOLINA, O DIESEL OU O ETANOL. JÁ NOS VEÍCULOS ELÉTRICOS, A “FORMA DE COMBUSTÍVEL” É A ENERGIA ELÉTRICA, ARMAZENADA EM BATERIAS. EM RESUMO: COMBUSTÍVEL É O QUE FAZ OS MOTORES FUNCIONAREM E OS VEÍCULOS SE MOVIMENTAREM.
-
-==========================================================================================================================
 Comodidade: o usuário não precisa procurar postos, economizando tempo.
 
 Segurança: evita riscos de pane seca em locais isolados ou perigosos.
