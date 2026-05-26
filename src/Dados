@@ -13,7 +13,6 @@ Motoristas em Poá (SP) enfrentam perdas significativas de tempo:
 - Maior consumo de combustível
 
 
-
  📱 2. Uso de Aplicativos
 Aplicativos como Uber, 99 e iFood mostram um padrão de comportamento:
 
@@ -91,21 +90,21 @@ Objetivo do modelo:
 
 Combustível
 
-- Abastecimento: **3 a 5 minutos**
+- Abastecimento: 3 a 5 minutos
 
  Elétrico
 
-- Tomada comum: **8 a 20 horas**
-- Tomada média: **4 a 8 horas**
-- Recarga rápida: **20 a 40 minutos**
+- Tomada comum: 8 a 20 horas
+- Tomada média: 4 a 8 horas
+- Recarga rápida: 20 a 40 minutos
 
 
 💰 CUSTOS POR KM RODADO
 
-- Gasolina comum: **R$ 6,49**
-- Gasolina aditivada: **R$ 6,99**
+- Gasolina comum: R$ 6,49
+- Gasolina aditivada: R$ 6,99
 - Etanol: **R$ 3,99**
-- Energia elétrica (kWh): **R$ 2,19**
+- Energia elétrica (kWh): R$ 2,19
 
 
  🏗️ INFRAESTRUTURA
@@ -127,14 +126,14 @@ Elétrico
 
  📈 CRESCIMENTO DOS ELÉTRICOS
 
-- Crescimento desde **2019**
+- Crescimento desde 2019
 - São mais econômicos
 - Recarga mais acessível
 - Grande presença de híbridos
-- Brasil: **+220 mil unidades**
+- Brasil: +220 mil unidades
 - Poá:
-  - Elétricos: \~120
-  - Híbridos: \~350
+  - Elétricos: ~120
+  - Híbridos: ~350
 
 
 🚚 DELIVERY VS POSTO
