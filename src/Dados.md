@@ -126,16 +126,13 @@ Elétrico
 - Energia elétrica
 - Rede elétrica
 
- 📈 CRESCIMENTO DOS ELÉTRICOS
+ 📈 CRESCIMENTO DOS DELIVERYS
 
 - Crescimento desde 2019
-- São mais econômicos
-- Recarga mais acessível
-- Grande presença de híbridos
-- Brasil: +220 mil unidades
-- Poá:
-  - Elétricos: ~120
-  - Híbridos: ~350
+- Trazendo mais praticidade
+- Mais acessível
+- Tecnologia 
+- Sustentabilidade
 
 
 🚚 DELIVERY VS POSTO
