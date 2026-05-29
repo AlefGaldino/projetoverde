@@ -13,6 +13,7 @@ Motoristas em Poá (SP) enfrentam perdas significativas de tempo:
 - Maior consumo de combustível
 
 
+ 
  📱 2. Uso de Aplicativos
 Aplicativos como Uber, 99 e iFood mostram um padrão de comportamento:
 
@@ -27,12 +28,14 @@ Aplicativos como Uber, 99 e iFood mostram um padrão de comportamento:
 
 
 
+ 
  🌱 3. Impacto Ambiental
 
 - Redução de deslocamentos → menos emissão de CO₂
 - Veículos individuais → maior poluição
 - Apps ajudam a otimizar rotas, mas ainda geram emissões
 - Transporte coletivo e logística otimizada são mais sustentáveis
+
 
 
 🔧 4. Manutenção
@@ -49,6 +52,7 @@ Aplicativos
 - Responsabilidade do prestador
 
 
+ 
  ⚡ 5. Autonomia do Usuário
 
  Modelo tradicional
@@ -63,6 +67,7 @@ Aplicativos
 - Maior controle do usuário
 
 
+ 
  🔐 6. Segurança e Regulamentação
 
 Apps
@@ -75,6 +80,7 @@ Veículo próprio
 - Manutenção influencia diretamente
 
 
+
 💰 7. Ticket Médio
 
 Objetivo do modelo:
@@ -84,6 +90,7 @@ Objetivo do modelo:
 - Transparência no custo
 - Equilíbrio entre economia e praticidade
 - Sustentabilidade financeira e ambiental.
+
 
 
 ⛽⚡ ABASTECIMENTO VS RECARGA
@@ -99,6 +106,7 @@ Combustível
 - Recarga rápida: 20 a 40 minutos
 
 
+
 💰 CUSTOS POR KM RODADO
 
 - Gasolina comum: R$ 6,49
@@ -109,6 +117,7 @@ Combustível
 ![Texto](https://github.com/AlefGaldino/projetoverde/blob/main/src/Imagens/Dashboard.png?raw=true)
 
 
+ 
  🏗️ INFRAESTRUTURA
 
  Combustível
@@ -126,6 +135,8 @@ Elétrico
 - Energia elétrica
 - Rede elétrica
 
+ 
+ 
  📈 CRESCIMENTO DOS DELIVERYS
 
 - Crescimento desde 2019
@@ -133,6 +144,7 @@ Elétrico
 - Mais acessível
 - Tecnologia 
 - Sustentabilidade
+
 
 
 🚚 DELIVERY VS POSTO
@@ -157,6 +169,7 @@ Elétrico
 - Necessidade de deslocamento
 
 
+ 
  🔄 FREQUÊNCIA DE USO
 
 Combustível
