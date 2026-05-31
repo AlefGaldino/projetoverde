@@ -184,8 +184,7 @@ Elétrico
 - Recarga: diária ou a cada 2–4 dias
 - Autonomia: 250 a 450 km
 
-![Texto](<img width="740" height="250" alt="AntesVSdepois" src="https://github.com/user-attachments/assets/cb4e87af-2ac6-4c0b-bd14-1c513d6467c6" />
-)
+![Texto]()
 
 
 
