@@ -114,7 +114,8 @@ Combustível
 - Etanol: **R$ 3,99**
 - Energia elétrica (kWh): R$ 2,19
 
-![Texto](https://drive.google.com/file/d/1aEr1HfS6FiajMzkENU3e9IppUJfFX6YI/view?usp=sharing)
+![Texto](<img width="740" height="250" alt="Chart js-preview (1)" src="https://github.com/user-attachments/assets/21605cfd-c5ea-4ab3-87fc-c60700589a5e" />
+)
 
 
  
