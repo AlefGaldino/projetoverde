@@ -114,8 +114,7 @@ Combustível
 - Etanol: **R$ 3,99**
 - Energia elétrica (kWh): R$ 2,19
 
-![Texto](<img width="740" height="250" alt="Chart js-preview (1)" src="https://github.com/user-attachments/assets/21605cfd-c5ea-4ab3-87fc-c60700589a5e" />
-)
+![Texto]()
 
 
  
@@ -184,6 +183,9 @@ Elétrico
 
 - Recarga: diária ou a cada 2–4 dias
 - Autonomia: 250 a 450 km
+
+![Texto](<img width="740" height="250" alt="AntesVSdepois" src="https://github.com/user-attachments/assets/cb4e87af-2ac6-4c0b-bd14-1c513d6467c6" />
+)
 
 
 
