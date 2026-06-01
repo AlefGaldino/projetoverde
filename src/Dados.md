@@ -169,6 +169,9 @@ Elétrico
 - Necessidade de deslocamento
 
 
+![Texto](<img width="740" height="250" alt="AntesVSdepois" src="https://github.com/user-attachments/assets/22ce6997-33f6-41e5-adc8-3b6ed0de3697" />)
+
+
  
  🔄 FREQUÊNCIA DE USO
 
