@@ -185,7 +185,7 @@ Elétrico
 - Recarga: diária ou a cada 2–4 dias
 - Autonomia: 250 a 450 km
 
-![Texto](https://github.com/AlefGaldino/projetoverde/blob/main/src/Imagens/Imagem1.png?raw=true)
+![Texto](https://github.com/AlefGaldino/projetoverde/blob/main/src/Imagens/Dashboard.Delivery.png?raw=true)
 
 
 
