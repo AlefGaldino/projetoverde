@@ -40,9 +40,6 @@ Aplicativos como Uber, 99 e iFood mostram um padrão de comportamento:
 
 🔧 4. Manutenção
 
-Veículo próprio
-
-
 Veiculo proprio
 - Combustível / energia
 - Pneus
@@ -78,7 +75,7 @@ Apps
 - Identificação do motorista
 - Necessidade de monitoramento constante
 
-Veículo próprio
+Veiculo proprio
 - Segurança dependente do condutor
 - Manutenção influencia diretamente
 
