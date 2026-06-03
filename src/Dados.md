@@ -40,7 +40,7 @@ Aplicativos como Uber, 99 e iFood mostram um padrão de comportamento:
 
 🔧 4. Manutenção
 
-Veiculo próprio
+Veiculo proprio
 - Combustível / energia
 - Pneus
 - Seguro
